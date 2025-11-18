@@ -1,17 +1,17 @@
 # Login Page - React + Tailwind CSS
 
-A beautiful and modern login page built with React and Tailwind CSS.
+A beautiful dark-themed login page built with React and Tailwind CSS, based on Figma design.
 
 ## Features
 
-- 🎨 Modern and clean UI design
+- 🎨 Dark theme UI design
 - 📱 Fully responsive
 - 🎭 Smooth animations and transitions
 - 🔐 Form validation
-- 🌈 Gradient backgrounds
-- 🔑 Social login buttons (Google & GitHub)
+- 🌈 Custom color scheme with teal accents
 - ✨ Remember me functionality
 - 🔗 Forgot password link
+- 💎 Minimalist and clean interface
 
 ## Getting Started
 
